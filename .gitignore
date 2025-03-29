@@ -1,0 +1,10 @@
+# Ignorar el entorno virtual
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Modelos serializados (opcional si no quieres subirlos)
+models/*.pkl
